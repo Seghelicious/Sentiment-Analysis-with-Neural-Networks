@@ -1,4 +1,4 @@
-# Sentiment-Analysis-with-Neural-Networks
+## Sentiment Analysis with Neural Networks
 
 This is the sixth project for AI for Trading Nanodegree.
 
